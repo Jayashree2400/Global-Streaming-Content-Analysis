@@ -5,3 +5,6 @@ Designed an interactive Power BI dashboard analyzing 23K+ streaming titles acros
 
 <img width="882" height="487" alt="image" src="https://github.com/user-attachments/assets/7a5590a8-cb01-48d7-8620-66995bb39294" />
 
+<img width="882" height="487" alt="image" src="https://github.com/user-attachments/assets/8e04a3c2-d19c-4741-b876-b048d99bec09" />
+
+
